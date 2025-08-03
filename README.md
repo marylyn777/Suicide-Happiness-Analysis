@@ -1,4 +1,4 @@
-#Happiness Paradox — When Well-being Doesn’t Mean Mental Health
+# Happiness Paradox - When Well-being Doesn't Mean Mental Health
 
 Project Overview:
 This project explores a central paradox in global well-being data: do countries with higher happiness and prosperity really experience lower suicide rates? 
